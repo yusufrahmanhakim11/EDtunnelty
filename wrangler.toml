@@ -6,7 +6,7 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 
 [[routes]]
-pattern = "gcp.fless.filegear-sg.me."
+pattern = "fless.filegear-sg.me."
 custom_domain = true
 [[routes]]
 pattern = "static.line-scdn.net.fless.filegear-sg.me"
